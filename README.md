@@ -1,3 +1,2 @@
 # google-homepage
-git remote add origin https://github.com/j0hnny02/google-homepage.git
-git push -u origin master
+From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
