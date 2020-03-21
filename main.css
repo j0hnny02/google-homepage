@@ -1,0 +1,155 @@
+.nav-main {
+    padding: 10px;
+}
+.left {
+    float: left;
+    margin-left: 14px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: small;
+}
+li {
+    display: inline;
+    font-size: 13px;
+    padding-left: 15px;
+}
+.logo {
+    padding-top: 129px;
+    text-align: center;
+    -webkit-appearance: none;
+}
+.search-field{
+    
+    margin-top: 20px;
+    text-align: center;
+    
+}
+.search-input {
+    background-color: #ffffff;
+    border: 1px solid #dadce0;
+    border-radius: 50px;
+    height: 30px;
+    padding: 8px;
+    width: 500px;
+    text-align: center;
+   }
+
+.right {
+    float: right;
+    margin-right: 14px;
+}
+a{
+    color: #000000;
+    opacity:0.75 ;
+    text-decoration: none;
+}
+.none:hover {
+    color: #000000;
+    opacity:0.75 ;
+    text-decoration: underline;
+  }
+.apps-icon {
+    color: #000000;
+    opacity:0.75 ;
+    text-decoration: none;
+    vertical-align: -3px;
+}
+.signin-button{
+    background-color: #4285f4;
+    border: 0;
+    border-radius: 2px;
+    color: #ffffff;
+    font-size: 13px;
+    padding: 5px 14px;
+    vertical-align: 5px;
+}
+#gmai{
+    vertical-align: 5px;
+}
+#image{
+    vertical-align: 5px;
+}
+#underbuttons{
+    
+    text-align: center;
+    
+}
+.button1{
+background-color: #6965651c;
+border: 1px solid #c6c6c6;
+color: rgba(0, 0, 0, 0.575);
+border-radius: 4px;
+font-family: arial,sans-serif;
+font-size: 14px;
+margin: 30px 4px;
+padding: 0 16px;
+line-height: 27px;
+height: 36px;
+min-width: 54px;
+
+cursor: pointer;
+user-select: none;
+border-color: #f8f8f8;
+}
+.button2{
+    background-color: #6965651c;
+    border: 1px solid #c6c6c6;
+color: rgba(0, 0, 0, 0.575);
+border-radius: 4px;
+font-family: arial,sans-serif;
+font-size: 14px;
+margin: 11px 4px;
+padding: 0 16px;
+line-height: 27px;
+height: 36px;
+min-width: 54px;
+
+cursor: pointer;
+user-select: none;
+border-color: #f8f8f8;
+}
+.button1:hover {
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+	background-color: #eeeeeead;
+border: 1px solid #c6c6c6;  
+color: black;
+}
+.button2:hover{
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+	background-color: #eeeeeead;
+border: 1px solid #c6c6c6;  
+color: black;
+}
+
+.country{
+    text-align: left;
+    position: absolute;
+    bottom: 35px;
+    left: 31px;
+   
+}
+.left-info{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+.right-info{
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+.left-info-style:hover{
+    text-decoration: underline;
+}
+.right-info-style:hover{
+    text-decoration: underline;
+}
+.otherInformations{
+    color: rgba(0,0,0,.54);
+}
+#footer{
+   
+}
